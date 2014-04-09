@@ -1,0 +1,6 @@
+  PID TTY          TIME CMD
+24821 pts/0    00:00:00 bash
+25180 pts/0    00:00:00 ps
+polecenia.txt
+student  tty7         2014-04-09 10:52
+student  pts/0        2014-04-09 12:50 (:0)
