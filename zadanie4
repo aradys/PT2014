@@ -1,0 +1,9 @@
+who > zalogowani
+sort zalogowani > zalogowani.alfabetycznie
+head - 3 zalogowani alfabetycznie > zalogowani.head
+
+who > zalogowani
+who | sort > zalogowani.alfabetycznie
+head - 3 zalogowani alfabetycznie > zalogowani.head
+
+zip -r proby.zip proby
